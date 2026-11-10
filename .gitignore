@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env*
+.wrangler/
+
+# Source material kept on this computer only (the finished images are in public/images)
+cyrancode-site-build-complete/
+images-from-gemini/
+some-project-images/
+source-shots/

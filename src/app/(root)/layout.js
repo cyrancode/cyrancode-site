@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="fr" data-theme="light" className={fontVars} suppressHydrationWarning>
       <head>
+        <meta name="google-site-verification" content="FZpM1NrBapv5wWzXp8V29_gBF6KJom2BEo7cAiBSaUs" />
         <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
       </head>

@@ -12,4 +12,5 @@ Text and data: `src/lib/content.js` (pages, projects, sectors) and `src/lib/seo-
 Site address: `SITE_URL` in `src/lib/content.js`.
 
 Hosting: Cloudflare Pages connected to this repository. Every push to `main` is built (`npm run build`, output `out`) and published.
+Live site: `https://cyrancode.pages.dev`
 Google setup steps: `GOOGLE-SETUP.md`.

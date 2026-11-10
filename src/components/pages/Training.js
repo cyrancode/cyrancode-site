@@ -52,7 +52,7 @@ export default function Training({ lang }) {
       <div className="relative mx-auto w-full max-w-[420px] md:mt-6">
         <div className="bg-grad pointer-events-none absolute inset-[10%_5%] rounded-full opacity-40 blur-[50px]" />
         <img
-          src="/images/cyran-training.webp"
+          src="/images/cyran-about.webp"
           alt={t.alt.training}
           width="720"
           height="900"

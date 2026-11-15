@@ -14,3 +14,7 @@ Site address: `SITE_URL` in `src/lib/content.js`.
 Hosting: Cloudflare Pages connected to this repository. Every push to `main` is built (`npm run build`, output `out`) and published.
 Live site: `https://cyrancode.pages.dev`
 Google setup steps: `GOOGLE-SETUP.md`.
+
+
+## Author
+- **Njua Cyran Nkwain** (GitHub: [@cyrancode](https://github.com/cyrancode) | LinkedIn: [Njua Cyran Nkwain](https://www.linkedin.com/in/njua-cyran-nkwain))
